@@ -10,7 +10,7 @@ I am a junior at UTSA and I'm a USAF veteran, now Military spouse that just atte
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
-[![GitHub](https://github.com/DimpledCharm)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/DimpledCharm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chelsea-svetcos/)
 
 "Do not take life too seriously. You will never make it out alive."- Elbert Hubbard
