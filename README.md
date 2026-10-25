@@ -11,6 +11,6 @@ I am a junior at UTSA and I'm a USAF veteran, now Military spouse that just atte
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
 [![GitHub](https://github.com/DimpledCharm)
-[![LinkedIn](https://www.linkedin.com/in/chelsea-svetcos/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chelsea-svetcos/)
 
 "Do not take life too seriously. You will never make it out alive."- Elbert Hubbard
