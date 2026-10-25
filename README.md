@@ -1,6 +1,6 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Chelsea Svetcos
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I am a junior at UTSA and I'm a USAF veteran, now Military spouse that just attends school full-time online. I currently live in Germany but before moving here I lived in Okinawa, Japan where I decided to get scuba certified!
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
