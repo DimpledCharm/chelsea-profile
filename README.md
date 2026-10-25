@@ -13,4 +13,4 @@ I am a junior at UTSA and I'm a USAF veteran, now Military spouse that just atte
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
 
-_"Your sample quote here!"_
+_"Do not take life too seriously. You will never make it out alive."- Elbert Hubbard _
